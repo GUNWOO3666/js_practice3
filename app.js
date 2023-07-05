@@ -30,7 +30,7 @@ function windowOffline() {
 
 function windowOnline() {
     alert("WiFi connected");
-}
+} 
 
 h1.addEventListener("click", clickTitle);
 h1.addEventListener("mouseenter", mouseEnter);
